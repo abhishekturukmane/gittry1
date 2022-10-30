@@ -6,6 +6,7 @@ public class prac1 {
 		// TODO Auto-generated method stub
 		//uc1
 		//uc2
+		//uc3
 	}
 
 }
